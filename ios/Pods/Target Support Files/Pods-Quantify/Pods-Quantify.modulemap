@@ -1,0 +1,6 @@
+module Pods_Quantify {
+  umbrella header "Pods-Quantify-umbrella.h"
+
+  export *
+  module * { export * }
+}
